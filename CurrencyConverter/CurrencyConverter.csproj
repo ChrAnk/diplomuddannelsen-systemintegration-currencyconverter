@@ -10,4 +10,8 @@
     <PackageReference Include="SoapCore" Version="1.1.0.44" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
 </Project>
